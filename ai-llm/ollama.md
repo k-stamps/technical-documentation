@@ -29,3 +29,8 @@ and hit Enter. Llama 3.2 is Meta’s open source LLM.
 * To compare this model to other Ollama models, visit https://ollama.com/ and select the Models navigation item. There will be a list of models you can read about.
 * Warning: llama models that are more recent (higher number) than 3.2 are generally too big to run on a home computer.
 * To run one of these other LLMs, visit its detail page, and click the copy icon to copy the command to run that LLM in your Windows PowerShell.
+
+### Further Resources:
+* [Ollama GitHub Documentation](https://github.com/ollama/ollama)
+* [Ed Donner's Udemy course "LLM Engineering: Master AI, Large Language Models & Agents"](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/)
+
