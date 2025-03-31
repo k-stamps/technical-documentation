@@ -32,5 +32,4 @@ and hit Enter. Llama 3.2 is Meta’s open source LLM.
 
 ### Further Resources:
 * [Ollama GitHub Documentation](https://github.com/ollama/ollama)
-* [Ed Donner's Udemy course "LLM Engineering: Master AI, Large Language Models & Agents"](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/)
 
