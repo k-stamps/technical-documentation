@@ -1,6 +1,6 @@
 ## Technical Documentation 
 
-This repo contains technical documentation and how-to's for GitHub project work.
+This repo contains technical documentation and how-to's for my GitHub project work.
 
 ### Rust
 * [How to set up Rust using Windows Subsystem for Linux](/rust/rust.md)
